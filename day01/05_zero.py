@@ -1,4 +1,8 @@
 import torch
+
+
+
+
 # 1.创建指定形状全0张量
 data = torch.zeros(2, 3)
 print(data)
